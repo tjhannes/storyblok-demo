@@ -1,4 +1,4 @@
-import { storyblokEditable, SbBlokData } from "@storyblok/react/rsc";
+import { storyblokEditable, SbBlokData } from "@storyblok/react";
 
 interface TeaserBlok extends SbBlokData {
   headline: string;
